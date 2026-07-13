@@ -23,6 +23,8 @@ Adaptation of *HaxrCorp 4089* by **sahwar** ([FontStruct](https://fontstruct.com
 
 New FlipCTL glyphs based on a public-domain font by **JapanYoshi** ([BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/gallery/?id=383)) - released as **Public Domain** via [**The Unlicense**](Born2bSportyV2-FlipCTL/LICENSE).
 
+`**Important:** We removed non Latin glyphs since we don't need them in MCU mode.`
+
 <img width="2934" height="1528" alt="image" src="https://github.com/user-attachments/assets/cbeadcce-c346-4fea-b8b7-45f027ba4f5b" />
 
 ---
